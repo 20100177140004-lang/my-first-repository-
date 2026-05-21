@@ -1,0 +1,5 @@
+name: rinchen tsering 
+class:9a 
+school:chapcha mss 
+dzongkha : chukha 
+hobby:i like playing basketball
